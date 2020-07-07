@@ -12,7 +12,8 @@ body {
 	display: none;
 }
 .peach {
-	background-color: #FFDAB9;
+	/*background-color: #FFDAB9;*/
+	background-image:"https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F949587%2Fpexels-photo-949587.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D1%26w%3D500&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fbackground%2F&tbnid=meKDZFct27iXEM&vet=12ahUKEwiA0pPQu7rqAhW6m0sFHZV3C5sQMygAegUIARDRAQ..i&docid=_pUPWoKZqMHalM&w=500&h=333&q=background%20images&ved=2ahUKEwiA0pPQu7rqAhW6m0sFHZV3C5sQMygAegUIARDRAQ"
 	
 }
 .peach-after {
